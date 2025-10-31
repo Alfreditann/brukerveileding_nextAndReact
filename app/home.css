@@ -3,5 +3,8 @@ body {
 }
 
 h1{
-    color: red;
+    color: black;
+    position: absolute;
+    left: 45rem;
+    font-size: 2rem;
 }
